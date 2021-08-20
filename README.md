@@ -5,7 +5,7 @@ I'm Marcos Felipe, computer scientist, developer and music lover.
 - 🔭 I’m currently working on [Inria](https://inria.fr/fr)
 - :computer: I'm participate of [LABORA researsh group](https://github.com/LABORA-INF-UFG) 
 - 📚 I’m currently studing M.Sc. in Computer Science
-- 🌱 I’m currently learning Kubernetes and C++
+- 🌱 I’m currently learning Kubernetes and AWS
 
 ## Personal projects that I'm working on or have finished
 
