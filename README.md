@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm Marcos Felipe, computer scientist, developer and music lover.
+I'm Marcos Felipe, M.Sc. in Computer Science, DevOps, Developer and music lover.
 
-- :computer: I'm participate of [LABORA researsh group](https://github.com/LABORA-INF-UFG) 
-- 📚 I’m currently studing M.Sc. in Computer Science
-- 🌱 I’m currently learning AWS, ElasticStack and Microservices
+- Some things that I alhead worked:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+
+- 🌱 I’m currently learning AWS, Kubernetes and Microservices
 
 ## Personal projects that I'm working on or have finished
 
@@ -20,6 +22,6 @@ I'm Marcos Felipe, computer scientist, developer and music lover.
 
 ## 📫 How to reach me:
 
-- <img height="20" src="https://i.pinimg.com/originals/ce/09/3c/ce093c7214ad357bb665cfd2f66a8b6b.png"> [LinkedIn](https://www.linkedin.com/in/marcosfelipp)
-- <img height="20" src="https://image.flaticon.com/icons/svg/732/732200.svg"> [Gmail](mailto:felipemarcos40@gmail.com)
-- <img height="20" src="https://cdn-images-1.medium.com/max/1200/1*6_fgYnisCa9V21mymySIvA.png"> [Medium](https://medium.com/@crazyccblog)
+- <img height="20" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> [LinkedIn](https://www.linkedin.com/in/marcosfelipp)
+- <img height="20" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> [Gmail](mailto:felipemarcos40@gmail.com)
+- <img height="20" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"> [Medium](https://medium.com/@crazyccblog)
